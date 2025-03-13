@@ -46,7 +46,7 @@ SMODS.Consumable {
 	loc_vars = function(self, info_queue)
 		info_queue[#info_queue + 1] = G.P_CENTERS.m_inv_shitty
 
-		return { vars = { card and card.ability.max_highlighted or 2, card and card.ability.extra.money or 20 } }
+		return { vars = { card and (card.ability.max_highlighted or 2), card and (card.ability.extra.money or 20) } }
 	end,
 	use = function(self, card, area, copier)
 		--loop through selected highlighted cards
