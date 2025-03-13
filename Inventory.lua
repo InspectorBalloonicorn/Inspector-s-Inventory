@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Inspector's Inventory
+--- MOD_NAME: Inspectors Inventory
 --- MOD_ID: InspectorsInventory
 --- MOD_AUTHOR: [InspectorB]
 --- MOD_DESCRIPTION: This Mod is a collection of Inspector's Misc Items
